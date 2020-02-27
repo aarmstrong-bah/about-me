@@ -1,1 +1,3 @@
-About me is about me.
+#About me is about me.
+
+## my favorite animal is the nautilus
