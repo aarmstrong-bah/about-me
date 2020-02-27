@@ -2,7 +2,7 @@
 
 ## my favorite animal is the nautilus
 
-## my favorite clor is **GREEN**
+## my favorite clor is **RED!**
 
 
 
