@@ -11,7 +11,7 @@
 
 
 ___
-#### Copyright Andrew Armstrong 2020
+#### Copyright ANDREW ARMSTRONG 2020
 
 
 
